@@ -43,7 +43,7 @@
 
 ### 2. MIDDLEWARE DEVELOPMENT
 
-- [x] ##### JavaScript 
+##### JavaScript 
 
       *Demonstrated proficiency here: *
 
@@ -111,7 +111,8 @@
 **SQL**
 
 - [x] Can create tables, columns & stored procedures in a timely manner
-      - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  https://www.codecademy.com/cloudSurfer22422*
+      - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  *
+      
 - [x] Can take business logic and turn it into a database design
 
 
@@ -125,7 +126,7 @@
 
 
 - [x] Can write repository methods that perform basic CRUD operations
-      - *Demonstrated in MVCMovie project: https://github.com/econno11ee/MvcMovieApp*
+      - *Demonstrated in Misty Scripts project: *
 
 ### 4. BACKEND DEVELOPMENT
 
@@ -271,15 +272,12 @@
 
 
 - [x] Liskov substitutability principle: The child class should not change the behavior (meaning) of the parent class. The child classcan be used as a substitute for a base class.
-      - Completed Interface Polygons class
 
 
 - [x] Interface segregation: Do not create lengthy interfaces, instead split them into smaller interfaces based on the functionality. The interface should not contain any dependencies (paramaters), which are not require for the expected functionality
-      - Demonstrated in MVCMovie project: https://github.com/econno11ee/MvcMovieApp
 
 
 - [x] Dependency Injection: Do not hardcode the dependencies, instead inject them
-      - *Exposure to these concepts in MVVM at Techtonic Group client*
 
 ### 6. GIT
 
