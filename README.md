@@ -2,7 +2,7 @@
 
 ### 1. FRONT END DEVELOPMENT HTML & CSS
 
-*Demonstrated proficiency here: *
+*Demonstrated proficiency here: https://github.com/PrajnaYoung/websockets/tree/master/Websocket%20Samples and https://github.com/PrajnaYoung/library_project*
 
 - [x] Solid Knowledge of common tag types and how to implement them
 
@@ -20,7 +20,7 @@
 - [x] Understands how the browser handles conflicting styles
 
 
-- [x] Understands how the DOM is laid out and is structured - *The Document Object Model (DOM) is an API that allows programmers to manipulate elements on a webpage. The DOM treats elements as objects that exist in a tree-like hierarchy* 
+- [x] Understands how the DOM is laid out and is structured 
 
 
 - [x] Understands the difference between content & styling
@@ -45,7 +45,7 @@
 
 ##### JavaScript 
 
-      *Demonstrated proficiency here: *
+      *Demonstrated proficiency here: https://github.com/PrajnaYoung/websockets/tree/master/Websocket%20Samples and https://github.com/PrajnaYoung/library_project*
 
 
 - [x] Solid understanding of HTML & CSS
@@ -57,7 +57,7 @@
 - [x] Understanding of dynamic typing and how it makes using the language quick and easy 
 
 
-- [x] Understanding of Document Object Model 
+- [x] Understanding of Document Object Model *The Document Object Model (DOM) is a hierarchy of divs and elements that describes how items are displayed on a web page.* 
 
 
 - [x] Knowledge of JSON and working with JSON objects *Used a JSON object to pre-load the list of available robot commands into the Blockly client application before connecting to the robot. Also worked with JSON objects when sending payloads associated with post commands to the robot and when parsing information received from the robot.
@@ -66,11 +66,11 @@
 - [x] Knowledge on how to traverse the DOM for element handles *by using GetElementById or by using jquery $(#elementid)
 
 
-- [x] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements - *See *
+- [x] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
 
 ##### AJAX
 
-*Use Ajax calls when communicating with a Misty Robot via the client applications.*
+*Use Ajax calls when communicating with a Misty Robot via the client applications. See https://github.com/PrajnaYoung/websockets/tree/master/Websocket%20Samples*
 
 - [x] Understanding of asynchronous concepts and implications such as callbacks 
 
@@ -111,7 +111,7 @@
 **SQL**
 
 - [x] Can create tables, columns & stored procedures in a timely manner
-      - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  *
+      - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  https://github.com/PrajnaYoung/MistyScripts_MVC*
       
 - [x] Can take business logic and turn it into a database design
 
@@ -126,7 +126,7 @@
 
 
 - [x] Can write repository methods that perform basic CRUD operations
-      - *Demonstrated in Misty Scripts project: *
+      - *Demonstrated in Misty Scripts project: https://github.com/PrajnaYoung/MistyScripts_MVC*
 
 ### 4. BACKEND DEVELOPMENT
 
@@ -139,14 +139,14 @@
 
 
 - [x] Understanding all common modifiers (static, abstract, etc) & can build and implement classes correctly
-      - *Demonstrated in Misty Scripts project:* 
+      - *Demonstrated in Misty Scripts project: https://github.com/PrajnaYoung/MistyScripts_MVC* 
 
 
 - [x] Understanding namespaces & how to import dependencies
-
+       - *Demonstrated in Misty Scripts project: https://github.com/PrajnaYoung/MistyScripts_MVC* 
 
 - [x] Knowledge on how to use model binding
-      - *Demonstrated in Misty Scripts project:* 
+      - *Demonstrated in Misty Scripts project: https://github.com/PrajnaYoung/MistyScripts_MVC* 
 
 
 - [x] Knowledge of serialization and deserialization with JSON
